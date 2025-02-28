@@ -134,3 +134,22 @@ img {
     }
 }
 
+@media screen and (max-width: 766px) {
+    .container{
+        max-width: 480px;
+    } 
+    
+    .row{
+        flex-wrap: wrap;
+        gap: 80px 0px;
+    }
+
+    .lessons .col{
+        width: 100%;
+        padding: 0px 46px;
+    }
+    
+    h1{
+        font-size: 3rem;
+    }
+}
