@@ -15,3 +15,5 @@ Suggerimenti: - Prima di poter lavorare sul responsive c’è una piccola cosa d
 Apriamo le slide e usiamole come guida per il lavoro, aggiungiamo sempre solo un pezzettino alla volta.
 
 :warning: Fate attenzione: a volte l'inspector di Chrome può dare qualche problema con le mediaquery, controllate il lavoro anche con l'inspector di Firefox
+
+DONE

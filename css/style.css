@@ -130,7 +130,7 @@ img {
 /* tablet */
 @media screen and (max-width: 1138px){
     .container{
-        max-width: 768px;
+        width: 100%;
     }
 }
 
@@ -141,7 +141,7 @@ img {
     }
     
     .container{
-        max-width: 480px;
+        width: 100%;
     } 
     
     .row{
