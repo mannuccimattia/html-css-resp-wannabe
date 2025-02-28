@@ -143,27 +143,17 @@ img {
     .container{
         max-width: 480px;
     } 
+    
+    .row{
+        flex-wrap: wrap;
+        gap: 5rem 0rem;
+    }
 
     .lessons h2{
         font-size: 2.3rem;
     }
     
-    .lessons .row{
-        flex-wrap: wrap;
-        gap: 5rem 0rem;
-    }
-
-    .lessons .col{
-        width: 100%;
-        padding: 0rem 3.5rem;
-    }
-
-    .steps .row{
-        flex-wrap: wrap;
-        gap: 5rem 0rem;
-    }
-
-    .steps .col{
+    .lessons .col, .steps .col{
         width: 100%;
         padding: 0rem 3.5rem;
     }
@@ -180,11 +170,6 @@ img {
 
     .why-us h2{
         padding: 0rem 2.5rem;
-    }
-
-    .why-us .row{
-        flex-wrap: wrap;
-        gap: 5rem 0rem;
     }
 
     .why-us .col{
